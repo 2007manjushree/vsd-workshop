@@ -58,7 +58,24 @@ Example: Stop Watch Application
 
 ![image](https://github.com/user-attachments/assets/8fa4ec5c-b1d8-4de8-bb44-631c4fffab96)
 
-Instruction File: architecture of the computer i.e. Abstract Interface Instruction Set Architecture
+Image 1 - Compiler Input
+Images 2 & 3 - Compiler Output (Hexadecimal numbers is output of assembler)
+
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/5255a9b9-6ad4-487f-a5bc-71f2299b2ee6" />
+
+Instruction File aka Abstract Interface Instruction Set Architecture: acts as abstract interface between C/C++/VB/JAVA/etc. and Machine Language Program i.e. architecture of the computer
+
+Step 1: Output of compiler is specifications 
+Step 2: Hardware Description Language aka RTL Descriptional Language implements the specs of instruction set
+Step 3: RTL gets synthesised into netlist (converted into logic gates)
+Step 4: Physical Design Implementation of netlist into hardware layout
+Step 5: Output of assembler is binary numbers
+Step 6L Binary numbers fed into Hardware layout
+
+![image](https://github.com/user-attachments/assets/2fa060da-2d09-49ca-ba91-56b20bedfbcb)
+
+
+
 
 
 
