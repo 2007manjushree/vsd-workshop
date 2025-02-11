@@ -75,14 +75,3 @@ Step 6L Binary numbers fed into Hardware layout
 ![image](https://github.com/user-attachments/assets/2fa060da-2d09-49ca-ba91-56b20bedfbcb)
 
 
-
-
-
-
-
-
-
-
-
-
-
